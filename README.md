@@ -3,7 +3,7 @@ TaskIT Inc. Logos
 
 ![Alt text](/taskit_logo_black.png?raw=true "TaskIT Logo Black Text")
 
-![Alt text](/taskit_logo_white?raw=true "TaskIT Logo White Text")
+![Alt text](/taskit_logo_white.png?raw=true "TaskIT Logo White Text")
 
 ![Alt text](/apple-touch-icon-120x120.png?raw=true "apple-touch-icon-120x120")
 
